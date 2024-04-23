@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CZMNBs9j7xeIzXbzJargOPctt5k3PQ8eisi3C+55OsrBGqDs+DANxHd0LqWhLmFQSBsWJewXwcin2c4pn5fk5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alpha\\source\\repos\\exam-74536\\question-3-74536\\question-3-74536.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alpha\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Alpha\source\repos\exam-74536\tests-74536\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alpha\source\repos\exam-74536\tests-74536\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alpha\source\repos\exam-74536\tests-74536\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alpha\source\repos\exam-74536\tests-74536\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Alpha\source\repos\exam-74536\tests-74536\bin\Debug\tests-74536.dll
+C:\Users\Alpha\source\repos\exam-74536\tests-74536\bin\Debug\tests-74536.pdb
+C:\Users\Alpha\source\repos\exam-74536\tests-74536\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Alpha\source\repos\exam-74536\tests-74536\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Alpha\source\repos\exam-74536\tests-74536\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Alpha\source\repos\exam-74536\tests-74536\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Alpha\source\repos\exam-74536\tests-74536\obj\Debug\tests-74536.csproj.AssemblyReference.cache
+C:\Users\Alpha\source\repos\exam-74536\tests-74536\obj\Debug\tests-74536.csproj.CoreCompileInputs.cache
+C:\Users\Alpha\source\repos\exam-74536\tests-74536\obj\Debug\tests-74536.csproj.CopyComplete
+C:\Users\Alpha\source\repos\exam-74536\tests-74536\obj\Debug\tests-74536.dll
+C:\Users\Alpha\source\repos\exam-74536\tests-74536\obj\Debug\tests-74536.pdb
